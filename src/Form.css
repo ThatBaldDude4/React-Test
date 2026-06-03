@@ -1,0 +1,28 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+form {
+    border: 2px solid red;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+label {
+    
+}
+
+label {
+    font-size: 2.0rem;
+}
+
+input {
+    min-height: 35px;
+    border-radius: 8px;
+}
